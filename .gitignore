@@ -5,13 +5,15 @@ __pycache__/
 *.aux
 *.bbl
 *.blg
-*.synctex.gz
 *.out
 *.toc
+*.synctex.gz
 node_modules/
+vendor/
 crypto-config/
 fabric/crypto-config/
 *.key
 priv_sk
 server.key
 client.key
+.env

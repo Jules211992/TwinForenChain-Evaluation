@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "TwinForenChain: Cyber-Forensic Attribution for IIoT Predictive Maintenance"
+message: "If you use this artifact, please cite the associated paper."
+authors:
+  - family-names: "Mbara"
+    given-names: "Jules Martial Yin-Belta"
+  - family-names: "Jaafar"
+    given-names: "Fehmi"
+  - family-names: "Tardif"
+    given-names: "Pierre-Martin"
+version: "1.0.0"
+date-released: "2026-10-12"
