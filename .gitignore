@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.log
+*.aux
+*.bbl
+*.blg
+*.synctex.gz
+*.out
+*.toc
+node_modules/
+crypto-config/
+fabric/crypto-config/
+*.key
+priv_sk
+server.key
+client.key

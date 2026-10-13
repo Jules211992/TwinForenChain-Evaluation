@@ -1,0 +1,9 @@
+metric,value
+P7C_CAA,0.8579
+P7C_AAA,0.8873
+P7C_FAR,0.1421
+LR_CAA_mean,0.7475
+RF_CAA_mean,0.8929
+Evidence_chain_completeness,1.000
+IPFS_hash_recovery,1.000
+Fabric_verification,1.000
