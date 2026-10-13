@@ -1,0 +1,6 @@
+method,total,correct,CAA,AAA_S2_S4,FAR
+P7C_conditional_cmodel_fold_1,2100,1795,0.8548,0.8866,0.1452
+P7C_conditional_cmodel_fold_2,2100,1796,0.8552,0.8858,0.1448
+P7C_conditional_cmodel_fold_3,2100,1829,0.8710,0.8970,0.1290
+P7C_conditional_cmodel_fold_4,2100,1808,0.8610,0.9111,0.1390
+P7C_conditional_cmodel_fold_5,2100,1780,0.8476,0.8559,0.1524

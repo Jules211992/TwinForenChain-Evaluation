@@ -1,0 +1,2 @@
+method,protocol,test_rows_total,CAA,AAA,FAR,macro_F1
+B4_LR_calibrated,purged_GroupKFold_same_features_as_P7C_and_RF,10500,0.7474,0.8309,0.2526,0.7428

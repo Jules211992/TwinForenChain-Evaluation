@@ -1,0 +1,13 @@
+feature,primary_importance_mean,primary_importance_std
+C_hist,0.157272,0.002269
+C_model,0.136966,0.001192
+context_degradation_score,0.124992,0.007172
+peak_ratio_to_context,0.116781,0.008812
+std_ratio_to_context,0.107303,0.010677
+slope_gap_z,0.105541,0.012613
+rms_ratio_to_context,0.081246,0.005262
+energy_ratio_to_context,0.074511,0.008043
+C_inject,0.037596,0.003737
+C_smooth,0.025137,0.003945
+C_degradation,0.023215,0.001107
+C_sensor,0.009440,0.000680

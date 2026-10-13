@@ -1,0 +1,5 @@
+rate_tag,pdm_error_rate,method,total,correct,CAA,AAA_S2_S4,FAR
+pdm000,0.00,P7C_final_evidence_routed_hierarchical,10500,9216,0.8777,0.8829,0.1223
+pdm002,0.02,P7C_final_evidence_routed_hierarchical,10500,9089,0.8656,0.8762,0.1344
+pdm004,0.04,P7C_final_evidence_routed_hierarchical,10500,9008,0.8579,0.8873,0.1421
+pdm008,0.08,P7C_final_evidence_routed_hierarchical,10500,8918,0.8493,0.8858,0.1507

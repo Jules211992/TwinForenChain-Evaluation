@@ -1,8 +1,8 @@
-TwinForenChain
+TwinForenChain Evaluation Artifact
 
-TwinForenChain is a reproducibility artifact for an evidence-routed forensic attribution framework for IIoT predictive maintenance.
+This repository contains the clean evaluation artifact for TwinForenChain.
 
-The repository contains clean scripts, evaluation outputs, and figures used to verify the final P7C attribution results.
+TwinForenChain is a cyber-forensic attribution framework for IIoT predictive maintenance. It reconstructs the sensor-window, prediction, and decision evidence chain, then assigns an evidence-based cause to audited maintenance decisions.
 
 Main results
 
@@ -10,22 +10,17 @@ P7C CAA = 0.8579
 P7C AAA = 0.8873
 P7C FAR = 0.1421
 
-Same-fold comparison
-
-P7C CAA mean = 0.8579
-LR CAA mean = 0.7475
-RF CAA mean = 0.8929
-
-Repository content
+Repository structure
 
 scripts contains reproducibility scripts.
 data contains clean CSV evaluation outputs.
 figures contains the main result figures.
+paper contains the LaTeX source when available.
 
 Reproduction
 
 python scripts/reproduce_p7c_final_engine.py
 
-python scripts/export_same_fold_p7c_lr_rf_stats.py
+python scripts/reproduce_p7c_final_pdm_sensitivity.py
 
 This repository does not include private credentials, deployment keys, raw infrastructure logs, or internal vendor folders.
